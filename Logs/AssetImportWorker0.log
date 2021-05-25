@@ -1,0 +1,1029 @@
+Using pre-set license
+Built from '2020.2/staging' branch; Version is '2020.2.5f1 (e2c53f129de5) revision 14861631'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.985; Version 2009; 64bit' Language: 'he' Physical Memory: 16217 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.5f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/zahta/Documents/GitHub/finalProject
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+60931
+Successfully changed project path to: C:/Users/zahta/Documents/GitHub/finalProject
+C:/Users/zahta/Documents/GitHub/finalProject
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 34.44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.5f1 (e2c53f129de5)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.5f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/zahta/Documents/GitHub/finalProject/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics 620 (ID=0x5917)
+    Vendor:   
+    VRAM:     8108 MB
+    Driver:   26.20.100.7263
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.5f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.5f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.5f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56152
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.5f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003309 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 23.13 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.417 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001009 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.923 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1103 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 68.2 MB.
+System memory in use after: 68.3 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1558.
+Total: 2.174500 ms (FindLiveObjects: 0.296000 ms CreateObjectMapping: 0.081000 ms MarkObjects: 1.717400 ms  DeleteObjects: 0.078900 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/New Terrain.asset
+  artifactKey: Guid(aacf6cf351866c04dac422733039496b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain.asset using Guid(aacf6cf351866c04dac422733039496b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e36fc8e3fbb0876c4ce11ac185a2a0d8') in 0.068164 seconds
+  Import took 0.072191 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 263.280952 seconds.
+  path: Assets/New Terrain.asset
+  artifactKey: Guid(aacf6cf351866c04dac422733039496b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain.asset using Guid(aacf6cf351866c04dac422733039496b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e4f4bb6f40084943bca8d485b7b88d0') in 0.014039 seconds
+  Import took 0.018337 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001123 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.933 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1100 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 68.3 MB.
+System memory in use after: 68.4 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1561.
+Total: 3.027200 ms (FindLiveObjects: 0.421300 ms CreateObjectMapping: 0.066700 ms MarkObjects: 2.442500 ms  DeleteObjects: 0.090400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.651681 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(0ced1b8ed64f41947a73b6619897d599) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(0ced1b8ed64f41947a73b6619897d599) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe49114387ba00d8abd9c8015b92eae7') in 0.005498 seconds
+  Import took 0.008265 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004090 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(0ced1b8ed64f41947a73b6619897d599) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(0ced1b8ed64f41947a73b6619897d599) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe49114387ba00d8abd9c8015b92eae7') in 0.003583 seconds
+  Import took 0.005890 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.520476 seconds.
+  path: Assets/Animations
+  artifactKey: Guid(05a6241ab2cf3804db367c9859bc4d5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations using Guid(05a6241ab2cf3804db367c9859bc4d5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16e5b00e4d739bd476af69c615008627') in 0.005076 seconds
+  Import took 0.007103 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.249487 seconds.
+  path: Assets/Texture
+  artifactKey: Guid(7b75358bb2f2ee1408f3d8627306b4a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture using Guid(7b75358bb2f2ee1408f3d8627306b4a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '685a520dc3a9408a89a9e1d6feab0e68') in 0.005404 seconds
+  Import took 0.008711 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 67.774275 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29f2a2471e7245fbc0aa931fa5cf45b7') in 0.006741 seconds
+  Import took 0.013444 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.947692 seconds.
+  path: Assets/Sounds
+  artifactKey: Guid(364118c6f5d5063429600b07d76791bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds using Guid(364118c6f5d5063429600b07d76791bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42c8e7efbe35b4e39d2ffc18bf5b12c9') in 0.004362 seconds
+  Import took 0.006249 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.914255 seconds.
+  path: Assets/Materials
+  artifactKey: Guid(2ee595b47c39b274a8028d9c2889a237) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials using Guid(2ee595b47c39b274a8028d9c2889a237) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd826cad47ed5da3d92000a8dd08a2934') in 0.005946 seconds
+  Import took 0.008217 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.924216 seconds.
+  path: Assets/_TerrainAutoUpgrade
+  artifactKey: Guid(f57edfc2fe2eab74082b09f8c495d0c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade using Guid(f57edfc2fe2eab74082b09f8c495d0c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2469ad31c3bd37242a2fe4370df215de') in 0.007772 seconds
+  Import took 0.009952 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.038249 seconds.
+  path: Assets/_TerrainAutoUpgrade/layer_dirtdirt_n8141e087eda3d1b0.terrainlayer
+  artifactKey: Guid(241d4be2b3a40fb40abbefef060a7a80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade/layer_dirtdirt_n8141e087eda3d1b0.terrainlayer using Guid(241d4be2b3a40fb40abbefef060a7a80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c25e369eba875dd8c0f8ab20fcd33c0d') in 0.082992 seconds
+  Import took 0.085187 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/_TerrainAutoUpgrade/layer_SandAlbedodirt_na513b4f607ad2805.terrainlayer
+  artifactKey: Guid(0c21045c47da32b41bcb9fd707863dd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade/layer_SandAlbedodirt_na513b4f607ad2805.terrainlayer using Guid(0c21045c47da32b41bcb9fd707863dd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcb339569965e8d24b9bfa0f06ad3fd8') in 0.034748 seconds
+  Import took 0.038218 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000381 seconds.
+  path: Assets/_TerrainAutoUpgrade/layer_mountain-wallmountain-wall-n3fdc08e766388254.terrainlayer
+  artifactKey: Guid(035a686c56892164886c8bbe57d7d6f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade/layer_mountain-wallmountain-wall-n3fdc08e766388254.terrainlayer using Guid(035a686c56892164886c8bbe57d7d6f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68d262d4800f6bef2d2e0668c46cc91a') in 0.032396 seconds
+  Import took 0.034918 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000453 seconds.
+  path: Assets/_TerrainAutoUpgrade/layer_grassgrass-nb5ecd127638d378a.terrainlayer
+  artifactKey: Guid(3da46fb3d4598d347a951eb82c08b394) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade/layer_grassgrass-nb5ecd127638d378a.terrainlayer using Guid(3da46fb3d4598d347a951eb82c08b394) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30486b5f4979f606e95f5ebb54cfeea3') in 0.031401 seconds
+  Import took 0.033758 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002750 seconds.
+  path: Assets/_TerrainAutoUpgrade/layer_grassgrass-nb5ecd127638d378a.terrainlayer
+  artifactKey: Guid(3da46fb3d4598d347a951eb82c08b394) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade/layer_grassgrass-nb5ecd127638d378a.terrainlayer using Guid(3da46fb3d4598d347a951eb82c08b394) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30486b5f4979f606e95f5ebb54cfeea3') in 0.028857 seconds
+  Import took 0.031124 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.524776 seconds.
+  path: Assets/race-track-lake/Textures
+  artifactKey: Guid(e969196e2612cde4ba5459ffc3848e71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/race-track-lake/Textures using Guid(e969196e2612cde4ba5459ffc3848e71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '607da3079174e860a3059ce68b4d68b0') in 0.005022 seconds
+  Import took 0.007793 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.042099 seconds.
+  path: Assets/race-track-lake/Textures/arrow-green.png
+  artifactKey: Guid(d9e8be3243a73944c931e93c450997e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/race-track-lake/Textures/arrow-green.png using Guid(d9e8be3243a73944c931e93c450997e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8c5d0e47c033ec474fa6a84cea14abf') in 0.056871 seconds
+  Import took 0.059559 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/race-track-lake/Textures/dirt_n.png
+  artifactKey: Guid(348507cb808ba76498ddf7101f190588) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/race-track-lake/Textures/dirt_n.png using Guid(348507cb808ba76498ddf7101f190588) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d4e9546686de7b7eb333c960b9fdb9c') in 0.022472 seconds
+  Import took 0.024968 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/race-track-lake/Textures/bridge_wall.png
+  artifactKey: Guid(9cea6adca089c57429abc93c9be66545) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/race-track-lake/Textures/bridge_wall.png using Guid(9cea6adca089c57429abc93c9be66545) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b381b3ebe19e087f2389f815b8229db7') in 0.021225 seconds
+  Import took 0.024554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000364 seconds.
+  path: Assets/race-track-lake/Textures/concrete.png
+  artifactKey: Guid(d232736cc2608bc4db5d948ad221d6e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/race-track-lake/Textures/concrete.png using Guid(d232736cc2608bc4db5d948ad221d6e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '406efcde1ffa16521ff73b9958577f87') in 0.020621 seconds
+  Import took 0.023234 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000454 seconds.
+  path: Assets/race-track-lake/Textures/dirt.png
+  artifactKey: Guid(fadd87f97f9e3cb428c208e9cbdc3a16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/race-track-lake/Textures/dirt.png using Guid(fadd87f97f9e3cb428c208e9cbdc3a16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f3c03c5e98f9edfa3642e9e15f39312') in 0.017339 seconds
+  Import took 0.021444 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000484 seconds.
+  path: Assets/race-track-lake/Textures/asphalt-dirt.png
+  artifactKey: Guid(d89746b1ab95024419d079248df66382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/race-track-lake/Textures/asphalt-dirt.png using Guid(d89746b1ab95024419d079248df66382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c40f9e97c0e349692fffb1eac04dcf75') in 0.016707 seconds
+  Import took 0.019367 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/race-track-lake/Textures/mountain-wall.png
+  artifactKey: Guid(ac957e33a9cdede44838b2b2d0765fcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/race-track-lake/Textures/mountain-wall.png using Guid(ac957e33a9cdede44838b2b2d0765fcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80a48a53497bb3e545b855b66fd59241') in 0.018546 seconds
+  Import took 0.022249 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/race-track-lake/Textures/bridge_wall_n.png
+  artifactKey: Guid(91681a18e98cac04a82027c0bf0b9d88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/race-track-lake/Textures/bridge_wall_n.png using Guid(91681a18e98cac04a82027c0bf0b9d88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1990afd6735f1f7f7ba6b7e92be04205') in 0.021770 seconds
+  Import took 0.024412 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/race-track-lake/Textures/stripes.png
+  artifactKey: Guid(6b3eb6215d995ca469c57f90951c7247) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/race-track-lake/Textures/stripes.png using Guid(6b3eb6215d995ca469c57f90951c7247) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa0a396ebba9ed2e4f3f43a0bd6bb5df') in 0.016626 seconds
+  Import took 0.019407 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/race-track-lake/Textures/stone_wall_n.png
+  artifactKey: Guid(46cd69cd2defad245853fdc5dfdaa00b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/race-track-lake/Textures/stone_wall_n.png using Guid(46cd69cd2defad245853fdc5dfdaa00b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3792674b6f5f7ce768bbf3d2fa4bc71f') in 0.027188 seconds
+  Import took 0.029631 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/race-track-lake/Textures/grass.png
+  artifactKey: Guid(e09011273c52fe842913babf812f8967) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/race-track-lake/Textures/grass.png using Guid(e09011273c52fe842913babf812f8967) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96d47e47faf1c202ae81b96fd4f8d3e4') in 0.017121 seconds
+  Import took 0.019232 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000547 seconds.
+  path: Assets/race-track-lake/Textures/stripes-n.png
+  artifactKey: Guid(433d6e281420f65479ce73594837466c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/race-track-lake/Textures/stripes-n.png using Guid(433d6e281420f65479ce73594837466c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd66883c895b8dc8e3567ac75e211053d') in 0.017021 seconds
+  Import took 0.022395 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000405 seconds.
+  path: Assets/race-track-lake/Textures/stone_wall.png
+  artifactKey: Guid(1eb252316ce83c6488ecfbaa3fab8020) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/race-track-lake/Textures/stone_wall.png using Guid(1eb252316ce83c6488ecfbaa3fab8020) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40db90af6d1a4c848f0867338a03cf63') in 0.024776 seconds
+  Import took 0.029147 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000392 seconds.
+  path: Assets/race-track-lake/Textures/asphalt-n.png
+  artifactKey: Guid(3809064900b6d13488f6b655e025ffa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/race-track-lake/Textures/asphalt-n.png using Guid(3809064900b6d13488f6b655e025ffa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08619a23bbf4f9c5fa9fba0a767b130d') in 0.022375 seconds
+  Import took 0.026429 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000423 seconds.
+  path: Assets/race-track-lake/Textures/grass-n.png
+  artifactKey: Guid(5b5d7dac1f660014a9b3614ced6c7ee9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/race-track-lake/Textures/grass-n.png using Guid(5b5d7dac1f660014a9b3614ced6c7ee9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f6e5d784bc5f59dbb1e4ab6e4ea4139') in 0.018724 seconds
+  Import took 0.021335 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000355 seconds.
+  path: Assets/race-track-lake/Textures/arrow-red.png
+  artifactKey: Guid(11825abdca2f8bc468467346f296b262) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/race-track-lake/Textures/arrow-red.png using Guid(11825abdca2f8bc468467346f296b262) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0937e05bce6df309b1b6078f6220865') in 0.013641 seconds
+  Import took 0.016283 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000408 seconds.
+  path: Assets/race-track-lake/Textures/concrete-n.png
+  artifactKey: Guid(a0214e9b058aed54b95ac06287e17f94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/race-track-lake/Textures/concrete-n.png using Guid(a0214e9b058aed54b95ac06287e17f94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d9ea353c081f51dec413d9027a200be') in 0.021899 seconds
+  Import took 0.025394 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/race-track-lake/Textures/mountain-wall-n.png
+  artifactKey: Guid(514d3c2153379ab4ba6d69ff97d01396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/race-track-lake/Textures/mountain-wall-n.png using Guid(514d3c2153379ab4ba6d69ff97d01396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2071139a8df3f04c104be5d1362a62b0') in 0.032133 seconds
+  Import took 0.035754 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000518 seconds.
+  path: Assets/race-track-lake/Textures/tire.png
+  artifactKey: Guid(51756af1df1884c4092078fa4c2b216d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/race-track-lake/Textures/tire.png using Guid(51756af1df1884c4092078fa4c2b216d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40024829888b70434ed1ebb415b094f9') in 0.015411 seconds
+  Import took 0.018145 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/race-track-lake/Textures/concrete-floor-n.png
+  artifactKey: Guid(0d9d16877c2e4e94397d2a2212205663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/race-track-lake/Textures/concrete-floor-n.png using Guid(0d9d16877c2e4e94397d2a2212205663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23619f51baf0d8f42ebaac6ac272306a') in 0.019798 seconds
+  Import took 0.024516 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000409 seconds.
+  path: Assets/race-track-lake/Textures/tire-n.png
+  artifactKey: Guid(2bca59d1308089d4399d995388b15713) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/race-track-lake/Textures/tire-n.png using Guid(2bca59d1308089d4399d995388b15713) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f02353c8f569ea091d39189d0b8c147') in 0.033009 seconds
+  Import took 0.036052 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000350 seconds.
+  path: Assets/race-track-lake/Textures/concrete-floor.png
+  artifactKey: Guid(9732ec62a77dc284d808ddc0fc6ac6ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/race-track-lake/Textures/concrete-floor.png using Guid(9732ec62a77dc284d808ddc0fc6ac6ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e53913d5d2e3bc19057ecb610961b0b') in 0.019891 seconds
+  Import took 0.022702 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000437 seconds.
+  path: Assets/race-track-lake/Textures/asphalt.png
+  artifactKey: Guid(e44e5461f25932a419bbc68a41f012ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/race-track-lake/Textures/asphalt.png using Guid(e44e5461f25932a419bbc68a41f012ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e3f3067d7ffd86b7bef4a576dce62c3') in 0.021274 seconds
+  Import took 0.025577 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.874106 seconds.
+  path: Assets/race-track-lake/Standard Assets/Environment/TerrainAssets/SurfaceTextures/CliffAlbedoSpecular.psd
+  artifactKey: Guid(18214e9d6af6248559d501391856f1c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/race-track-lake/Standard Assets/Environment/TerrainAssets/SurfaceTextures/CliffAlbedoSpecular.psd using Guid(18214e9d6af6248559d501391856f1c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f14f4678700c37586a4a94643613098a') in 0.017418 seconds
+  Import took 0.020341 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000417 seconds.
+  path: Assets/race-track-lake/Standard Assets/Environment/SpeedTree/Conifer/ConiferBark_Normal.tga
+  artifactKey: Guid(2b46b029d8dc37049aebb484e79998ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/race-track-lake/Standard Assets/Environment/SpeedTree/Conifer/ConiferBark_Normal.tga using Guid(2b46b029d8dc37049aebb484e79998ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a3223674aea8d6b307ff675f10d68fa') in 0.017141 seconds
+  Import took 0.020360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/race-track-lake/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop_Atlas.tga
+  artifactKey: Guid(ea9799c461d3f6e4eb0be2264829282d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/race-track-lake/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop_Atlas.tga using Guid(ea9799c461d3f6e4eb0be2264829282d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e61099bcf150a091043eea06fe8d0b39') in 0.013219 seconds
+  Import took 0.015424 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/race-track-lake/Standard Assets/Environment/SpeedTree/Conifer/ConiferBark.tga
+  artifactKey: Guid(9654cfdd87d7daf429b8931c28d7a93c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/race-track-lake/Standard Assets/Environment/SpeedTree/Conifer/ConiferBark.tga using Guid(9654cfdd87d7daf429b8931c28d7a93c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91f1eed4c8a6492355a02be898c41f7f') in 0.012240 seconds
+  Import took 0.014514 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/race-track-lake/Standard Assets/Environment/TerrainAssets/SurfaceTextures/MudRockyAlbedoSpecular.bmp
+  artifactKey: Guid(ef5c51cfa2ce46043a41a376b560c525) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/race-track-lake/Standard Assets/Environment/TerrainAssets/SurfaceTextures/MudRockyAlbedoSpecular.bmp using Guid(ef5c51cfa2ce46043a41a376b560c525) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb44187bcf72aef740a0e02b43bb44ff') in 0.021114 seconds
+  Import took 0.023730 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000366 seconds.
+  path: Assets/race-track-lake/Standard Assets/Environment/TerrainAssets/SurfaceTextures/MudRockyNormals.bmp
+  artifactKey: Guid(58a059b07b093a745b47c2191525ddce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/race-track-lake/Standard Assets/Environment/TerrainAssets/SurfaceTextures/MudRockyNormals.bmp using Guid(58a059b07b093a745b47c2191525ddce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b981b8629beb15325bfe2f086d2b9519') in 0.018395 seconds
+  Import took 0.021693 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/race-track-lake/Standard Assets/Environment/Water (Basic)/Textures/WaterBasicDaytimeGradient.psd
+  artifactKey: Guid(047330f39d11745ad0004adb8d76c639) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/race-track-lake/Standard Assets/Environment/Water (Basic)/Textures/WaterBasicDaytimeGradient.psd using Guid(047330f39d11745ad0004adb8d76c639) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8525af45eb9b4ae9c2fd33182f94d11b') in 0.010645 seconds
+  Import took 0.014085 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000957 seconds.
+  path: Assets/race-track-lake/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop_Atlas_Billboards.tga
+  artifactKey: Guid(612b65e0cd1576e4bbba0516d756a99d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/race-track-lake/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop_Atlas_Billboards.tga using Guid(612b65e0cd1576e4bbba0516d756a99d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a97f7af13f8275f57fb38e27fe1a2895') in 0.017706 seconds
+  Import took 0.020927 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/race-track-lake/Standard Assets/Environment/SpeedTree/Conifer/Thumb_Conifer_Desktop.jpg
+  artifactKey: Guid(1fbc4e410d66d804aaf31b4c25b16ffc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/race-track-lake/Standard Assets/Environment/SpeedTree/Conifer/Thumb_Conifer_Desktop.jpg using Guid(1fbc4e410d66d804aaf31b4c25b16ffc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9677d103f9609199df72fcf08e0b8f69') in 0.012654 seconds
+  Import took 0.014947 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000378 seconds.
+  path: Assets/race-track-lake/Standard Assets/Environment/TerrainAssets/SurfaceTextures/SandAlbedo.psd
+  artifactKey: Guid(bfd675cc0db1d4656b75dc6d6ba91142) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/race-track-lake/Standard Assets/Environment/TerrainAssets/SurfaceTextures/SandAlbedo.psd using Guid(bfd675cc0db1d4656b75dc6d6ba91142) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31d097bf306b0b22863d524cf868e848') in 0.013350 seconds
+  Import took 0.016521 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000999 seconds.
+  path: Assets/race-track-lake/Standard Assets/Environment/Water (Basic)/Textures/WaterBasicNormals.jpg
+  artifactKey: Guid(a53cf5449d11a15d1100a04b44295342) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/race-track-lake/Standard Assets/Environment/Water (Basic)/Textures/WaterBasicNormals.jpg using Guid(a53cf5449d11a15d1100a04b44295342) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4aef74985b416b6fc852466c282e311a') in 0.014319 seconds
+  Import took 0.017106 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000421 seconds.
+  path: Assets/race-track-lake/Standard Assets/Environment/TerrainAssets/SurfaceTextures/GrassRockyAlbedo.psd
+  artifactKey: Guid(440eb36db91ca410f800ff3cfe43572f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/race-track-lake/Standard Assets/Environment/TerrainAssets/SurfaceTextures/GrassRockyAlbedo.psd using Guid(440eb36db91ca410f800ff3cfe43572f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bf61fda6be50cbae70517b2130a054d') in 0.011646 seconds
+  Import took 0.014011 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/race-track-lake/Standard Assets/Environment/TerrainAssets/BillboardTextures/GrassFrond01AlbedoAlpha.psd
+  artifactKey: Guid(2c528fec5d95e4ac28cf46399b887662) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/race-track-lake/Standard Assets/Environment/TerrainAssets/BillboardTextures/GrassFrond01AlbedoAlpha.psd using Guid(2c528fec5d95e4ac28cf46399b887662) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9eaa02daba858133dcd83efdfe3b6d9') in 0.012990 seconds
+  Import took 0.016886 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/race-track-lake/Models/LakeTerrain.asset
+  artifactKey: Guid(4b8644c26c3eb2f4b99babbc1e5cce0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/race-track-lake/Models/LakeTerrain.asset using Guid(4b8644c26c3eb2f4b99babbc1e5cce0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3af76c4ecbf272c3bd68896f029e263') in 0.222561 seconds
+  Import took 0.229222 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000667 seconds.
+  path: Assets/race-track-lake/Standard Assets/Environment/TerrainAssets/BillboardTextures/GrassFrond02AlbedoAlpha.psd
+  artifactKey: Guid(d6cdc79ec19714fcd980ca3f6ac01a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/race-track-lake/Standard Assets/Environment/TerrainAssets/BillboardTextures/GrassFrond02AlbedoAlpha.psd using Guid(d6cdc79ec19714fcd980ca3f6ac01a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f36e2ce941461e4801b9375a573ed80') in 0.019539 seconds
+  Import took 0.024303 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000524 seconds.
+  path: Assets/race-track-lake/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop_Atlas_Normal.tga
+  artifactKey: Guid(855926cb3532dc14c87b1e6d589334b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/race-track-lake/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop_Atlas_Normal.tga using Guid(855926cb3532dc14c87b1e6d589334b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '658995ccfe00a6c93f50f69e96fb67c2') in 0.021779 seconds
+  Import took 0.026348 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000478 seconds.
+  path: Assets/race-track-lake/Standard Assets/Environment/TerrainAssets/SurfaceTextures/GrassHillAlbedo.psd
+  artifactKey: Guid(c6e0767b1f8c34890ac245217f4b9731) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/race-track-lake/Standard Assets/Environment/TerrainAssets/SurfaceTextures/GrassHillAlbedo.psd using Guid(c6e0767b1f8c34890ac245217f4b9731) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc213c9b6a4583a6a7f6a3514b628677') in 0.010738 seconds
+  Import took 0.015167 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/race-track-lake/Standard Assets/Environment/Water (Basic)/Textures/WaterBasicNighttimeGradient.psd
+  artifactKey: Guid(8403d3349d112ba4d000be1be39e7c39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/race-track-lake/Standard Assets/Environment/Water (Basic)/Textures/WaterBasicNighttimeGradient.psd using Guid(8403d3349d112ba4d000be1be39e7c39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40a399aa58b8243f7a2aa3aea58d762d') in 0.008723 seconds
+  Import took 0.010781 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/race-track-lake/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Needles_Dekstop_Spec.tga
+  artifactKey: Guid(897461e3c2fa9d84d8bd48bf1b00a950) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/race-track-lake/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Needles_Dekstop_Spec.tga using Guid(897461e3c2fa9d84d8bd48bf1b00a950) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4508e8ced4685762366720a4d3b19ee') in 0.015287 seconds
+  Import took 0.018314 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000409 seconds.
+  path: Assets/race-track-lake/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Needles_Desktop_Normal.tga
+  artifactKey: Guid(ab89d7e9dbd9462458ecef029ee60f6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/race-track-lake/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Needles_Desktop_Normal.tga using Guid(ab89d7e9dbd9462458ecef029ee60f6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '912df7e50b26a03d53c00694caf32c95') in 0.014917 seconds
+  Import took 0.019362 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000418 seconds.
+  path: Assets/race-track-lake/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop_Atlas_Specular.tga
+  artifactKey: Guid(41232aac50fb25a40b390906295f9aa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/race-track-lake/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop_Atlas_Specular.tga using Guid(41232aac50fb25a40b390906295f9aa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b289895f20f4494255fd0042fa69ff8') in 0.011738 seconds
+  Import took 0.014695 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/race-track-lake/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop_Atlas_Billboards_Normal.tga
+  artifactKey: Guid(6c2afc8a038f69f4aa35c25dcd94fd55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/race-track-lake/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop_Atlas_Billboards_Normal.tga using Guid(6c2afc8a038f69f4aa35c25dcd94fd55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68e0f2c2a2e0c7b97886ef5ddc07919a') in 0.013997 seconds
+  Import took 0.017475 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000630 seconds.
+  path: Assets/race-track-lake/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Needles_Desktop.tga
+  artifactKey: Guid(34d2758af9e0a2b4690fbcfcad0285d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/race-track-lake/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Needles_Desktop.tga using Guid(34d2758af9e0a2b4690fbcfcad0285d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd57aa0fa8271863ea1d852889ddbbb6') in 0.015141 seconds
+  Import took 0.017503 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 59.247349 seconds.
+  path: Assets/race-track-lake/Standard Assets/Environment
+  artifactKey: Guid(6ca8c4e270f964e0da9f731d7d34b123) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/race-track-lake/Standard Assets/Environment using Guid(6ca8c4e270f964e0da9f731d7d34b123) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d85c3f568a587ad29e7b5630ad4265d') in 0.006171 seconds
+  Import took 0.008755 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.130766 seconds.
+  path: Assets/race-track-lake/Standard Assets/Environment/SpeedTree
+  artifactKey: Guid(c04a867c41990cb44b46672730a8e63f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/race-track-lake/Standard Assets/Environment/SpeedTree using Guid(c04a867c41990cb44b46672730a8e63f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1752b815801fd3efa7c0be4c280a4db1') in 0.004275 seconds
+  Import took 0.006935 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.754058 seconds.
+  path: Assets/race-track-lake/Standard Assets/Environment/SpeedTree/Conifer
+  artifactKey: Guid(73ab447d8034be44f8321c730cc6247a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/race-track-lake/Standard Assets/Environment/SpeedTree/Conifer using Guid(73ab447d8034be44f8321c730cc6247a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd4f508cc3d475ca880e85c2e4b230fd') in 0.005137 seconds
+  Import took 0.007739 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.034694 seconds.
+  path: Assets/race-track-lake/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop.spm
+  artifactKey: Guid(469edab27ab6d004d84af2c4a851bd7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/race-track-lake/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop.spm using Guid(469edab27ab6d004d84af2c4a851bd7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d8958ff4cecdf2b2b5d05857e11a55a') in 2.485721 seconds
+  Import took 2.488618 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 254.455139 seconds.
+  path: Assets/prefabs
+  artifactKey: Guid(3cf482e707764464297325d155adbf9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefabs using Guid(3cf482e707764464297325d155adbf9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79a92bd862a897de49aaedc8cf005621') in 0.006016 seconds
+  Import took 0.009660 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.002967 seconds.
+  path: Assets/Prefabs
+  artifactKey: Guid(3cf482e707764464297325d155adbf9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs using Guid(3cf482e707764464297325d155adbf9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99a91f58c215e21e50e284f79fa6bc51') in 0.008988 seconds
+  Import took 0.012043 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001153 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.854 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1100 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.4 MB.
+System memory in use after: 76.5 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1584.
+Total: 3.400400 ms (FindLiveObjects: 0.824300 ms CreateObjectMapping: 0.218100 ms MarkObjects: 2.257900 ms  DeleteObjects: 0.097000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 157.795016 seconds.
+  path: Assets/Texture/grey-stone-texture.jpg
+  artifactKey: Guid(dc1358830c346a64abf2db4151d8e337) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/grey-stone-texture.jpg using Guid(dc1358830c346a64abf2db4151d8e337) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85cdceb5b5377f026f81f75d9e268d4e') in 0.045901 seconds
+  Import took 0.048407 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 189.486334 seconds.
+  path: Assets/Texture/Materials
+  artifactKey: Guid(cf667e7b889c5814b85b78dbc845ae25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Materials using Guid(cf667e7b889c5814b85b78dbc845ae25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1e312e9b561671c2e3d04918c32729c') in 0.008516 seconds
+  Import took 0.012290 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.043110 seconds.
+  path: Assets/Texture/Materials/grey-stone-texture.mat
+  artifactKey: Guid(c124b303592be2e4ba59ce84399524f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Materials/grey-stone-texture.mat using Guid(c124b303592be2e4ba59ce84399524f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba726bc71dddd3d137f1059f95fca57f') in 0.066073 seconds
+  Import took 0.069611 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 72.627127 seconds.
+  path: Assets/Texture/depositphotos_209722582-stock-photo-old-stone-wall-texture-very.jpg
+  artifactKey: Guid(ccd2a72a65ee6ad4aa13a88a1230fdca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/depositphotos_209722582-stock-photo-old-stone-wall-texture-very.jpg using Guid(ccd2a72a65ee6ad4aa13a88a1230fdca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5411a7a5c4919e751513cbed1cba5b02') in 0.026132 seconds
+  Import took 0.028488 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 57.914153 seconds.
+  path: Assets/Texture/-old-brick-wall-texture.jpg
+  artifactKey: Guid(f9e504f6cfdf1084388d17bcdcd0ba1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/-old-brick-wall-texture.jpg using Guid(f9e504f6cfdf1084388d17bcdcd0ba1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '315000cead30348fa1c60bb3ad24781f') in 0.028042 seconds
+  Import took 0.030279 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 894.651429 seconds.
+  path: Assets/Scripts/FPMotion.cs
+  artifactKey: Guid(c5eaaec55d4d80e479f5ce8f2dc24932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/FPMotion.cs using Guid(c5eaaec55d4d80e479f5ce8f2dc24932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b29bbe5d2a97cdf3721ca76d7bfda7d') in 0.009666 seconds
+  Import took 0.012614 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000955 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.872 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1101 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.6 MB.
+System memory in use after: 76.6 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1622.
+Total: 1.792000 ms (FindLiveObjects: 0.219400 ms CreateObjectMapping: 0.114100 ms MarkObjects: 1.379000 ms  DeleteObjects: 0.078500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001747 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.987 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1101 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.6 MB.
+System memory in use after: 76.7 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1624.
+Total: 2.073100 ms (FindLiveObjects: 0.276000 ms CreateObjectMapping: 0.061500 ms MarkObjects: 1.654200 ms  DeleteObjects: 0.080000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 96.572438 seconds.
+  path: Assets/Scripts/FPMotion.cs
+  artifactKey: Guid(c5eaaec55d4d80e479f5ce8f2dc24932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/FPMotion.cs using Guid(c5eaaec55d4d80e479f5ce8f2dc24932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '946272c8032ee1f8abc746649168f74c') in 0.005888 seconds
+  Import took 0.007801 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 107.281736 seconds.
+  path: Assets/Sounds/Footstep Wood 3.wav
+  artifactKey: Guid(0a8eee97170e23f43b49eff4d0cc3f97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/Footstep Wood 3.wav using Guid(0a8eee97170e23f43b49eff4d0cc3f97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '773bff7db6d2218956fd66006acc1af1') in 0.078219 seconds
+  Import took 0.080853 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001656 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.968 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1101 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.7 MB.
+System memory in use after: 76.8 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1629.
+Total: 2.052700 ms (FindLiveObjects: 0.206800 ms CreateObjectMapping: 0.042200 ms MarkObjects: 1.725900 ms  DeleteObjects: 0.076600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000987 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.866 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1101 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.7 MB.
+System memory in use after: 76.8 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1631.
+Total: 2.160200 ms (FindLiveObjects: 0.296700 ms CreateObjectMapping: 0.056200 ms MarkObjects: 1.728600 ms  DeleteObjects: 0.077200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001151 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.867 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1101 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.7 MB.
+System memory in use after: 76.8 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1633.
+Total: 2.466800 ms (FindLiveObjects: 0.207500 ms CreateObjectMapping: 0.057900 ms MarkObjects: 2.127200 ms  DeleteObjects: 0.072500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001112 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.857 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1101 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.7 MB.
+System memory in use after: 76.8 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1635.
+Total: 1.792000 ms (FindLiveObjects: 0.139300 ms CreateObjectMapping: 0.079000 ms MarkObjects: 1.498600 ms  DeleteObjects: 0.073800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000949 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.885 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1101 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.7 MB.
+System memory in use after: 76.8 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1637.
+Total: 2.025600 ms (FindLiveObjects: 0.208400 ms CreateObjectMapping: 0.062400 ms MarkObjects: 1.662400 ms  DeleteObjects: 0.090200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000992 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.033 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1101 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.7 MB.
+System memory in use after: 76.8 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1639.
+Total: 2.336500 ms (FindLiveObjects: 0.216200 ms CreateObjectMapping: 0.073200 ms MarkObjects: 1.958300 ms  DeleteObjects: 0.087400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 608.595430 seconds.
+  path: Assets/Prefabs/race-track-lake
+  artifactKey: Guid(77aad4f5b1f7d0c48ac077e3567862e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/race-track-lake using Guid(77aad4f5b1f7d0c48ac077e3567862e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b1ce3112b77f5acb8c408ca086d41b5') in 0.012280 seconds
+  Import took 0.017553 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001128 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.998 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.71 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1101 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.8 MB.
+System memory in use after: 76.8 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1641.
+Total: 4.407500 ms (FindLiveObjects: 0.888100 ms CreateObjectMapping: 0.066100 ms MarkObjects: 3.349800 ms  DeleteObjects: 0.099500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 454.028772 seconds.
+  path: Assets/Prefabs/race-track-lake/Standard Assets/Environment/Water (Basic)
+  artifactKey: Guid(dc7abfa0435174ded902b073322d67cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/race-track-lake/Standard Assets/Environment/Water (Basic) using Guid(dc7abfa0435174ded902b073322d67cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd6f36c44594889ca2fb0ddbf53a6171') in 0.010737 seconds
+  Import took 0.014320 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000527 seconds.
+  path: Assets/Prefabs/race-track-lake/Standard Assets/Environment/Water (Basic)
+  artifactKey: Guid(dc7abfa0435174ded902b073322d67cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/race-track-lake/Standard Assets/Environment/Water (Basic) using Guid(dc7abfa0435174ded902b073322d67cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd6f36c44594889ca2fb0ddbf53a6171') in 0.004324 seconds
+  Import took 0.007587 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.177049 seconds.
+  path: Assets/Prefabs/race-track-lake/Standard Assets/Environment/Water (Basic)/Prefabs
+  artifactKey: Guid(50d95e01ce44ff842949168ffec200cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/race-track-lake/Standard Assets/Environment/Water (Basic)/Prefabs using Guid(50d95e01ce44ff842949168ffec200cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eea3d0c2774a2ca970caebbe5f1ff0de') in 0.004780 seconds
+  Import took 0.007764 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.040108 seconds.
+  path: Assets/Prefabs/race-track-lake/Standard Assets/Environment/Water (Basic)/Prefabs/WaterBasicDaytime.prefab
+  artifactKey: Guid(9485b0c79d11e2e4d0007da98d76c639) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/race-track-lake/Standard Assets/Environment/Water (Basic)/Prefabs/WaterBasicDaytime.prefab using Guid(9485b0c79d11e2e4d0007da98d76c639) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82e58729c0206a04dc373c02ba89e88a') in 0.061095 seconds
+  Import took 0.065309 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/Prefabs/race-track-lake/Standard Assets/Environment/Water (Basic)/Prefabs/WaterBasicNightime.prefab
+  artifactKey: Guid(6b436d069d11415d1100ab9b44295342) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/race-track-lake/Standard Assets/Environment/Water (Basic)/Prefabs/WaterBasicNightime.prefab using Guid(6b436d069d11415d1100ab9b44295342) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '839ac9a3d6a96bfbeedb4449013bd72c') in 0.026200 seconds
+  Import took 0.030135 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001031 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.895 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1101 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.8 MB.
+System memory in use after: 76.9 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1645.
+Total: 3.196400 ms (FindLiveObjects: 0.390600 ms CreateObjectMapping: 0.113600 ms MarkObjects: 2.519400 ms  DeleteObjects: 0.170000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001081 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.890 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1100 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.7 MB.
+System memory in use after: 76.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1647.
+Total: 8.704400 ms (FindLiveObjects: 1.017800 ms CreateObjectMapping: 0.198500 ms MarkObjects: 7.285100 ms  DeleteObjects: 0.172500 ms)
+
