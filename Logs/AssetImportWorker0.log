@@ -518,3 +518,480 @@ System memory in use after: 78.0 MB.
 Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1642.
 Total: 3.164300 ms (FindLiveObjects: 0.161200 ms CreateObjectMapping: 0.042600 ms MarkObjects: 2.802900 ms  DeleteObjects: 0.155700 ms)
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001124 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.901 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.64 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1102 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.9 MB.
+System memory in use after: 78.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1644.
+Total: 6.993000 ms (FindLiveObjects: 0.701000 ms CreateObjectMapping: 0.162400 ms MarkObjects: 5.858500 ms  DeleteObjects: 0.265900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001208 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.98 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.718 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.96 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1102 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.9 MB.
+System memory in use after: 78.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1646.
+Total: 2.551300 ms (FindLiveObjects: 0.270400 ms CreateObjectMapping: 0.060300 ms MarkObjects: 2.125000 ms  DeleteObjects: 0.093100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002450 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.316 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1102 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.9 MB.
+System memory in use after: 78.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1648.
+Total: 3.264200 ms (FindLiveObjects: 0.235400 ms CreateObjectMapping: 0.067500 ms MarkObjects: 2.831800 ms  DeleteObjects: 0.127300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001704 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.612 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1102 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.9 MB.
+System memory in use after: 78.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1650.
+Total: 5.251100 ms (FindLiveObjects: 0.382500 ms CreateObjectMapping: 0.109400 ms MarkObjects: 4.547000 ms  DeleteObjects: 0.208400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001964 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.022 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.71 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1102 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.9 MB.
+System memory in use after: 78.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1652.
+Total: 7.436700 ms (FindLiveObjects: 0.744400 ms CreateObjectMapping: 0.162300 ms MarkObjects: 6.269400 ms  DeleteObjects: 0.254100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 59143.692315 seconds.
+  path: Assets/Sounds/GunShot8.wav
+  artifactKey: Guid(e9fbedbf3361eda46a19abbd6c0a2f82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/GunShot8.wav using Guid(e9fbedbf3361eda46a19abbd6c0a2f82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '847443734d69640b88e6ab24bf2919d2') in 0.168786 seconds
+  Import took 0.179350 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001295 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.895 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1102 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.9 MB.
+System memory in use after: 78.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1655.
+Total: 1.972900 ms (FindLiveObjects: 0.203700 ms CreateObjectMapping: 0.055200 ms MarkObjects: 1.626100 ms  DeleteObjects: 0.086300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002419 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.435 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1102 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.9 MB.
+System memory in use after: 78.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1657.
+Total: 5.060100 ms (FindLiveObjects: 0.732100 ms CreateObjectMapping: 0.566600 ms MarkObjects: 3.612600 ms  DeleteObjects: 0.145000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 2418.995084 seconds.
+  path: Assets/Prefabs/laxer Assets/wood bridge
+  artifactKey: Guid(9bd1211281fc4424095eae33d476825c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/laxer Assets/wood bridge using Guid(9bd1211281fc4424095eae33d476825c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48e19f890b52b337fcfdf780d5825768') in 0.012500 seconds
+  Import took 0.018626 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.033454 seconds.
+  path: Assets/Prefabs/laxer Assets/wood bridge/poly rock cube.fbx
+  artifactKey: Guid(1bf04411ea1641842ab47d2f57baabf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/laxer Assets/wood bridge/poly rock cube.fbx using Guid(1bf04411ea1641842ab47d2f57baabf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09129ac33b0ccc144a07c1bfc1c67d66') in 0.148653 seconds
+  Import took 0.153251 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.717988 seconds.
+  path: Assets/Prefabs/laxer Assets/wood bridge/Prefabs with collision
+  artifactKey: Guid(4a52f4b69de7fea478b258bdbca47a5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/laxer Assets/wood bridge/Prefabs with collision using Guid(4a52f4b69de7fea478b258bdbca47a5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8df1be20a7a78cd975f647cec3e98238') in 0.007288 seconds
+  Import took 0.010813 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.045106 seconds.
+  path: Assets/Prefabs/laxer Assets/wood bridge/Prefabs with collision/wood bridge 1 b.prefab
+  artifactKey: Guid(b1748a207e089e140a13afcacbf7e47d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/laxer Assets/wood bridge/Prefabs with collision/wood bridge 1 b.prefab using Guid(b1748a207e089e140a13afcacbf7e47d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e5f00a717cb6d0a51f404683cfe05bd') in 0.344792 seconds
+  Import took 0.348162 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/Prefabs/laxer Assets/wood bridge/Prefabs with collision/wood bridge guardrail 1 b.prefab
+  artifactKey: Guid(4d821b61a213fc840828e27fca18ba8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/laxer Assets/wood bridge/Prefabs with collision/wood bridge guardrail 1 b.prefab using Guid(4d821b61a213fc840828e27fca18ba8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a8bf51677fe5f17a0e47fc5ee3a69ad') in 0.024447 seconds
+  Import took 0.027856 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000756 seconds.
+  path: Assets/Prefabs/laxer Assets/wood bridge/Prefabs with collision/wood bridge guardrail 2 b.prefab
+  artifactKey: Guid(de9f578cfdca0894e889dca3bacef698) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/laxer Assets/wood bridge/Prefabs with collision/wood bridge guardrail 2 b.prefab using Guid(de9f578cfdca0894e889dca3bacef698) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '670907d36cc86b61f8ce0cad8c7d4b67') in 0.024638 seconds
+  Import took 0.028615 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Prefabs/laxer Assets/wood bridge/Prefabs with collision/wood bridge beam 1.prefab
+  artifactKey: Guid(310f765a5920d1142afbe256c3e1f43b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/laxer Assets/wood bridge/Prefabs with collision/wood bridge beam 1.prefab using Guid(310f765a5920d1142afbe256c3e1f43b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16f4bdade9048acb3ad5daba8fcd1436') in 0.023295 seconds
+  Import took 0.027069 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/Prefabs/laxer Assets/wood bridge/Prefabs with collision/wood bridge stairs 2.prefab
+  artifactKey: Guid(20987309ee214664180a77414b9ca8de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/laxer Assets/wood bridge/Prefabs with collision/wood bridge stairs 2.prefab using Guid(20987309ee214664180a77414b9ca8de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8303145dff6482e2f0384a84fb9a68dc') in 0.025426 seconds
+  Import took 0.029239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/Prefabs/laxer Assets/wood bridge/Prefabs with collision/wood bridge stairs 1.prefab
+  artifactKey: Guid(6d13e3e1ec610134c8ec67c29c8f5f4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/laxer Assets/wood bridge/Prefabs with collision/wood bridge stairs 1.prefab using Guid(6d13e3e1ec610134c8ec67c29c8f5f4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53dc8b4c214bf8fd070f0f82c790a9ab') in 0.035126 seconds
+  Import took 0.039929 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000402 seconds.
+  path: Assets/Prefabs/laxer Assets/wood bridge/Prefabs with collision/wood bridge guardrail 1.prefab
+  artifactKey: Guid(e9a17ad2c9a6e2a4c9f807f745c59b28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/laxer Assets/wood bridge/Prefabs with collision/wood bridge guardrail 1.prefab using Guid(e9a17ad2c9a6e2a4c9f807f745c59b28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b74ec687cdf6200565d397bdfef3df20') in 0.037415 seconds
+  Import took 0.041699 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/Prefabs/laxer Assets/wood bridge/Prefabs with collision/wood plank 2.prefab
+  artifactKey: Guid(7552661bc45660240b68ea1e813bbe18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/laxer Assets/wood bridge/Prefabs with collision/wood plank 2.prefab using Guid(7552661bc45660240b68ea1e813bbe18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf8e87dd08c027a5becfd71f2f3308ba') in 0.036022 seconds
+  Import took 0.039891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Prefabs/laxer Assets/wood bridge/Prefabs with collision/wood bridge guardrail 2.prefab
+  artifactKey: Guid(6b8288da9ceb3bc439fd4802c81cb452) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/laxer Assets/wood bridge/Prefabs with collision/wood bridge guardrail 2.prefab using Guid(6b8288da9ceb3bc439fd4802c81cb452) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac9b1eca21904146348a2a2e05f2c1c0') in 0.035797 seconds
+  Import took 0.039569 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/Prefabs/laxer Assets/wood bridge/Prefabs with collision/wood bridge step 1.prefab
+  artifactKey: Guid(48aab90d7099e38428e69512f29b7c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/laxer Assets/wood bridge/Prefabs with collision/wood bridge step 1.prefab using Guid(48aab90d7099e38428e69512f29b7c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4371aebe9024c66b8be7f79bcf4c03e') in 0.027315 seconds
+  Import took 0.032089 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/Prefabs/laxer Assets/wood bridge/Prefabs with collision/wood bridge corner 2.prefab
+  artifactKey: Guid(98dadaae72a006d48955753a8c0eb7a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/laxer Assets/wood bridge/Prefabs with collision/wood bridge corner 2.prefab using Guid(98dadaae72a006d48955753a8c0eb7a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7280b8bc668ea01999396266187c88b') in 0.027444 seconds
+  Import took 0.031607 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000520 seconds.
+  path: Assets/Prefabs/laxer Assets/wood bridge/Prefabs with collision/wood plank 1.prefab
+  artifactKey: Guid(8bbcfa2418cb33746b6fa1bdebee4806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/laxer Assets/wood bridge/Prefabs with collision/wood plank 1.prefab using Guid(8bbcfa2418cb33746b6fa1bdebee4806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24dd51c1710cdbe67064b2b6070d2b33') in 0.024443 seconds
+  Import took 0.030700 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000367 seconds.
+  path: Assets/Prefabs/laxer Assets/wood bridge/Prefabs with collision/wood bridge 1.prefab
+  artifactKey: Guid(a10d1f3307879f24fa4403887422c73f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/laxer Assets/wood bridge/Prefabs with collision/wood bridge 1.prefab using Guid(a10d1f3307879f24fa4403887422c73f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd92539be8479c1931bbb9a40a32a429a') in 0.027680 seconds
+  Import took 0.032275 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000404 seconds.
+  path: Assets/Prefabs/laxer Assets/wood bridge/Prefabs with collision/wood bridge corner 1.prefab
+  artifactKey: Guid(73d2600b17c40b24cb6cc38b9b1dd10e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/laxer Assets/wood bridge/Prefabs with collision/wood bridge corner 1.prefab using Guid(73d2600b17c40b24cb6cc38b9b1dd10e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6649de61db8551ca535025d20a50a5a4') in 0.034521 seconds
+  Import took 0.038294 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000679 seconds.
+  path: Assets/Prefabs/laxer Assets/wood bridge/Prefabs with collision/wood planks 1.prefab
+  artifactKey: Guid(b2db04363402831458a55ca9c7a4b151) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/laxer Assets/wood bridge/Prefabs with collision/wood planks 1.prefab using Guid(b2db04363402831458a55ca9c7a4b151) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0dc0a614c92027941e1a4a45d32b8e75') in 0.040994 seconds
+  Import took 0.045248 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/Prefabs/laxer Assets/wood bridge/Prefabs with collision/wood bridge 2 b.prefab
+  artifactKey: Guid(0d195c0b730647745af47bd4e3ac8616) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/laxer Assets/wood bridge/Prefabs with collision/wood bridge 2 b.prefab using Guid(0d195c0b730647745af47bd4e3ac8616) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e18abdee2a84e5b473c42b32730baeaa') in 0.026801 seconds
+  Import took 0.030618 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Prefabs/laxer Assets/wood bridge/Prefabs with collision/wood bridge beam 2.prefab
+  artifactKey: Guid(c4db999358520f14fb0bc15b060996eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/laxer Assets/wood bridge/Prefabs with collision/wood bridge beam 2.prefab using Guid(c4db999358520f14fb0bc15b060996eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5a76be29987e60cdf85aa819d6c91f2') in 0.026442 seconds
+  Import took 0.030291 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/Prefabs/laxer Assets/wood bridge/Prefabs with collision/wood bridge 2.prefab
+  artifactKey: Guid(c5fe18f281c2fa548b3124b44d5882d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/laxer Assets/wood bridge/Prefabs with collision/wood bridge 2.prefab using Guid(c5fe18f281c2fa548b3124b44d5882d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '396b42bd39af598540ec1ddd00350ada') in 0.026740 seconds
+  Import took 0.030969 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000458 seconds.
+  path: Assets/Prefabs/laxer Assets/wood bridge/Prefabs with collision/wood bridge stairs 1 b.prefab
+  artifactKey: Guid(36d2636b6965d754d8bbf1705661c796) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/laxer Assets/wood bridge/Prefabs with collision/wood bridge stairs 1 b.prefab using Guid(36d2636b6965d754d8bbf1705661c796) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93f694ef6543b6c84dd0749012ee0cf9') in 0.027546 seconds
+  Import took 0.031213 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/Prefabs/laxer Assets/wood bridge/Prefabs with collision/wood planks 2.prefab
+  artifactKey: Guid(722ceecca9b985545b583c859f7b5000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/laxer Assets/wood bridge/Prefabs with collision/wood planks 2.prefab using Guid(722ceecca9b985545b583c859f7b5000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7883e96a165d00d5a2dbb0cc55059c4f') in 0.038478 seconds
+  Import took 0.042264 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/Prefabs/laxer Assets/wood bridge/Prefabs with collision/wood bridge stairs 2 b.prefab
+  artifactKey: Guid(b7e95eb81d7e0894580b48733f6126b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/laxer Assets/wood bridge/Prefabs with collision/wood bridge stairs 2 b.prefab using Guid(b7e95eb81d7e0894580b48733f6126b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8dbc725be9ae8e052c6cf8751d2170b4') in 0.034117 seconds
+  Import took 0.038766 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001725 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.343 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1102 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.0 MB.
+System memory in use after: 78.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1660.
+Total: 2.574500 ms (FindLiveObjects: 0.272200 ms CreateObjectMapping: 0.084500 ms MarkObjects: 2.108300 ms  DeleteObjects: 0.107400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001561 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.178 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1102 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.0 MB.
+System memory in use after: 78.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1662.
+Total: 2.593300 ms (FindLiveObjects: 0.229500 ms CreateObjectMapping: 0.056700 ms MarkObjects: 2.154000 ms  DeleteObjects: 0.150600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002225 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.945 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1102 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.0 MB.
+System memory in use after: 78.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1664.
+Total: 5.113000 ms (FindLiveObjects: 0.329100 ms CreateObjectMapping: 0.107500 ms MarkObjects: 4.519800 ms  DeleteObjects: 0.152500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001680 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.397 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1102 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.0 MB.
+System memory in use after: 78.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1666.
+Total: 2.657000 ms (FindLiveObjects: 0.274300 ms CreateObjectMapping: 0.074100 ms MarkObjects: 2.200600 ms  DeleteObjects: 0.105600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002631 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.202 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1102 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.0 MB.
+System memory in use after: 78.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1668.
+Total: 2.346100 ms (FindLiveObjects: 0.186100 ms CreateObjectMapping: 0.076600 ms MarkObjects: 1.984700 ms  DeleteObjects: 0.096300 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
