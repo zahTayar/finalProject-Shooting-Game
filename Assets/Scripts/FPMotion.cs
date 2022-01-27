@@ -9,7 +9,7 @@ public class FPMotion : MonoBehaviour
     private float speed = 9f;
     private float rx = 0f, ry;
     private float angularSpeed = 2;
-    public GameObject enemy;
+    public GameObject[] AllEnemies=new GameObject[3];
     private AudioSource audio;
     // Start is called before the first frame update
     void Start()
@@ -36,13 +36,23 @@ public class FPMotion : MonoBehaviour
         {
             dx = Input.GetAxis("Horizontal") * speed * Time.deltaTime;//horizontal means "A" "D"        Vector3 motion = new Vector3(dx, 0, dz);
             dz = Input.GetAxis("Vertical") * speed * Time.deltaTime;
-         
+            for(int i = 0; i < AllEnemies.Length; i++)
+            {
+                NavMeshAgent nav = AllEnemies[i].GetComponent<NavMeshAgent>();
+                Animator an = AllEnemies[i].GetComponent<Animator>();
+                if (!nav.enabled && an.GetInteger("npcState") != 2)
+                {
+                    nav.enabled = true;
+                    an.SetInteger("npcState", 1);
+                }
+            }
+
         }
 
         //keyboard
 
 
-        Vector3 motion = new Vector3(dx, 0, dz);
+        Vector3 motion = new Vector3(dx, -1, dz);
         motion = transform.TransformDirection(motion);
         Ccontroller.Move(motion);
 
